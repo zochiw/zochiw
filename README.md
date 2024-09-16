@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm zochiw</h1>
-<h3 align="center">Un développeur passionné JavaScript de Côte d'Ivoire</h3>
+<h3 align="center">Un développeur passionné JavaScript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zochiw&label=Profile%20views&color=0e75b6&style=flat" alt="zochiw" /> </p>
 
@@ -7,11 +7,6 @@
 
 - 🌱 J'apprends actuellement **Le langage GO et C++**
 
-- 💬 Demandez-moi à propos de **react**
-
-- 📫 Comment me joindre **nirocrack50@gmail.com**
-
-- ⚡ Fait amusant **La vie c'est pas le biscuit**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
