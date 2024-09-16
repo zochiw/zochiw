@@ -2,7 +2,7 @@
 
 Bienvenue sur mon profil GitHub ! Je suis [Ton Nom] et voici un aperçu de ce que je fais.
 
-![Concept de développement d'application](https://www.zadroagency.com.au/wp-content/uploads/2023/11/Customised-GPTs_Web-1920x1080-BKGf6921e-1024x576.png)
+![Concept de développement d'application](https://www.dbmaestro.com/wp-content/uploads/2019/07/Microservices-Deployment.png)
 
 ## Qui suis-je ?
 
@@ -32,5 +32,5 @@ N'hésite pas à me contacter pour toute question ou collaboration !
 Merci de visiter mon profil GitHub !
 
 ---
-
+![Concept de développement d'application]([https://www.dbmaestro.com/wp-content/uploads/2019/07/Microservices-Deployment.png](https://o1u8.sscms.net/assets/images/cmsv7_4.png))
 *Ce README est mis à jour régulièrement pour refléter mes dernières activités et projets.*
