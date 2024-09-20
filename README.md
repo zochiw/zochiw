@@ -25,9 +25,6 @@ Je suis un Etudiant en Medecine mais passionné par le developpement en JavaScri
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zochiw&show_icons=true&locale=en" alt="zochiw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zochiw&" alt="zochiw" /></p>
-
-
 
 Merci de visiter mon profil GitHub !
 
