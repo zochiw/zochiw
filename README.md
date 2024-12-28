@@ -1,12 +1,5 @@
 # Bonjour ! 👋
 
-Bienvenue sur mon profil GitHub ! Je suis Zochi et voici un aperçu de ce que je fais.
-
-![Concept de développement d'application](https://www.dbmaestro.com/wp-content/uploads/2019/07/Microservices-Deployment.png)
-
-## Qui suis-je ?
-
-Je suis un Etudiant en Medecine mais passionné par le developpement en JavaScript. J'aime explorer de nouvelles technologies, contribuer à des projets open-source, et apprendre constamment.
 
 ## Mes compétences
 
